@@ -1,4 +1,4 @@
-# Business-Insights-360-of-Atliq-Hardwares
+
 # Business Insights 360 of Atliq Hardwares
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzIwOGQxNTYtNTQ0OC00ZWQxLTk2OTYtMzU5ZmNjOGZhYzBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
